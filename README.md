@@ -2,6 +2,7 @@
 Repositorio del Grupo G
 
 ---
+**Coordinador:** Reynaldo Pedroza
 
 ## Clonar-Repositorio
 
